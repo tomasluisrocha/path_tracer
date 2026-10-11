@@ -1,8 +1,8 @@
-# Ray Tracer in C++
+# Path Tracer in C++
 
 A CPU path tracer written in C++, following [*Ray Tracing in One Weekend*](https://raytracing.github.io/books/RayTracingInOneWeekend.html) and [*Ray Tracing: The Next Week*](https://raytracing.github.io/books/RayTracingTheNextWeek.html) by Peter Shirley, Trevor David Black, and Steve Hollasch.
 
-![Render](renders/image_final.png)
+![Render](renders/image_checker_hires.png)
 
 ## Features
 
